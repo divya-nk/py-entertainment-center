@@ -1,6 +1,9 @@
 Class
 instance
 constructor - the __init__ function (initializes a new instance for the class, i.e creates space in the memory for the new instance)
+
 self
 instance variables
 instance methods
+
+class variables

@@ -19,4 +19,8 @@ raazi = media.Movie("Raazi", "A thriller story of an Indian Spy",
 
 movies = [avatar, toy_story, raazi]
 
-fresh_tomatoes.open_movies_page(movies)
+#fresh_tomatoes.open_movies_page(movies)
+print(media.Movie.VALID_RATINGS)
+print(media.Movie.__doc__)
+print(media.Movie.__name__)
+print(media.Movie.__module__)
